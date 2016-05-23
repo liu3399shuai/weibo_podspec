@@ -12,5 +12,10 @@
  这样可以临时解决下
  
  也可以把podspec下载本地 ，参考 https://github.com/sinaweibosdk/weibo_ios_sdk/issues/200
+ 
+ 正常的应该是这样
+ 
+ 	pod 'WeiboSDK', :podspec => 'https://raw.github.com/sinaweibosdk/weibo_ios_sdk/master/WeiboSDK.podspec'
+
 
 */
