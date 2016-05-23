@@ -11,5 +11,6 @@
  
  这样可以临时解决下
  
+ 也可以把podspec下载本地 ，参考 https://github.com/sinaweibosdk/weibo_ios_sdk/issues/200
 
 */
